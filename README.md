@@ -37,28 +37,24 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-
-
-
-
-
-
-
-
 Direct connection: CIRCUIT DIAGRAM: 
-![WhatsApp Image 2025-09-30 at 08 44 09_43c96db9](https://github.com/user-attachments/assets/dd579896-327d-40de-a1c9-7e3d70a86210)
+	![WhatsApp Image 2025-11-09 at 20 09 20_3fbb617d](https://github.com/user-attachments/assets/43fea209-bc6c-480f-9ece-100cfe6b845c)
+	![WhatsApp Image 2025-11-09 at 20 09 33_6e28435a](https://github.com/user-attachments/assets/90e5b03d-e1d3-4476-b71e-78ec26ef9e5f)
 
-![WhatsApp Image 2025-09-23 at 08 39 38_45d9819c](https://github.com/user-attachments/assets/6d17ae6b-999a-4274-bf20-c0e4bfec9c30)
 
-	
 Cross connection: 
+	![WhatsApp Image 2025-11-09 at 20 09 34_f3063bf0](https://github.com/user-attachments/assets/3ceb0a77-9f55-43ef-94eb-25b3ba93bb94)
+	![WhatsApp Image 2025-11-09 at 20 09 25_c9c7879f](https://github.com/user-attachments/assets/5dd0cfeb-67e0-4787-83fb-a605709db4d8)
 
 CIRCUIT DIAGRAM:
 
-![WhatsApp Image 2025-09-30 at 08 44 09_0d3b7315](https://github.com/user-attachments/assets/747a4080-a7e6-48c2-8267-9027d05dd76b)
+SPDT(XNOR)
 
-![WhatsApp Image 2025-09-23 at 08 48 04_54682862](https://github.com/user-attachments/assets/5f1927a8-322b-4ed0-8790-cf578fe0786b)
+<img width="837" height="414" alt="image" src="https://github.com/user-attachments/assets/ebe2e301-d116-4fea-b353-6e0f090c3689" />
+	
+SPDT(NOR)
 
+<img width="900" height="430" alt="image" src="https://github.com/user-attachments/assets/3edebe34-b644-46f3-a300-aca193765bd7" />
 
 
 RESULT:
